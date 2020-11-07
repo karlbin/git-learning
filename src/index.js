@@ -11,3 +11,7 @@ function checkStr(source, target) {
   return true
 }
 checkStr(p, q)
+console.log("hello world")
+function hello() {
+  console.log('hello')
+}
